@@ -1,0 +1,21 @@
+body {
+    background: url(../odin-recipes/photos/Toast.jpeg);
+}
+
+.title,
+.desc {
+    background-color: peachpuff;
+    color: brown;
+    text-align: center;
+    border-width: thick;
+    
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+    background-color: peachpuff;
+    color: brown;
+}
+.link {
+    color: brown;
+}
